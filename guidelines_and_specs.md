@@ -13,7 +13,7 @@ SPLYZA Teams チャットボット仕様書・ガイドライン
     * カスタマーサポートへの問い合わせ工数の削減
     * 正確な一次情報の提供
 2. 技術仕様
-* 基盤モデル: Gemini 3.0 Flash (gemini-3-flash-preview)
+* 基盤モデル: Gemini 3.5 Flash (gemini-3.5-flash)
 * アーキテクチャ: Next.js 15 (App Router)
 * APIエンドポイント: Google AI Studio / Google Cloud Vertex AI (v1beta)
 * 回答生成パラメータ:
