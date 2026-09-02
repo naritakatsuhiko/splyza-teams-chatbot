@@ -257,7 +257,7 @@ SPLYZA Teamsにアップロードした動画は、共有することができ�
 
 ## 動画をmp4ファイルとしてダウンロードする
 
-**ヘルプセンターURL**: https://splyza.notion.site/mp4-176df66121948190829fd5d0a330180e
+**ヘルプセンターURL**: https://splyza.notion.site/mp4-176df66121948190829fd5c0a330180e
 
 SPLYZA Teamsにアップロードした動画は、mp4形式でダウンロードできます。
 

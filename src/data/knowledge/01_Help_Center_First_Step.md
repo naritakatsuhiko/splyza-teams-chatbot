@@ -88,7 +88,7 @@ SPLYZA Teamsで動画をアップロードする方法について説明しま�
 
 ## 動画にタグを付けよう
 
-**ヘルプセンターURL**: https://splyza.notion.site/17bdf661219481fa8cffe4171739b977
+**ヘルプセンターURL**: https://splyza.notion.site/17bdf661219480e18f85e0dcbb46b4d5
 
 アップロードした動画にタグを付けて、シーンを分類・整理する方法について説明します。
 
