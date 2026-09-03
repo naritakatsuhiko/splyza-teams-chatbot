@@ -5,30 +5,8 @@
 SPLYZA Score for Basketball で記録したスコアを SPLYZA Teams に共有し、チームで閲覧することができます。
 
 ## 目次
-1. [スコアの共有と映像連携](#スコアの共有と映像連携)
-2. [スコアの閲覧方法](#スコアの閲覧方法)
-
----
-
-## スコアの共有と映像連携
-
-**ヘルプセンターURL**: https://splyza.notion.site/p/2d1df6612194812eb962cae5e2640f8c
-
-SPLYZA Score for Basketball 側で以下の操作を行うことで、スコアを SPLYZA Teams に共有できます。
-
-1. SPLYZAアカウントでログインする
-2. スコアデータを共有する
-3. スコアと映像を連携する（※秋の大幅アップデートにて実装予定）
-
-> ⚠ **SPLYZA Teams を利用していない方へ**
->
-> SPLYZA Teams を利用していない方は、サインインをしても、スコアを共有するためのチームがないため、共有に失敗してしまいます。
->
-> 現段階でスコアの共有をご検討くださっている方は、SPLYZA Teams の製品ページをご確認ください。1ヶ月の無料トライアルもございます。
->
-> https://products.splyza.com/teams/
-
-＊共有の詳しい手順は SPLYZA Score for Basketball のヘルプセンターをご参照ください。
+1. [スコアの閲覧方法](#スコアの閲覧方法)
+2. [スコアの共有について](#スコアの共有について)
 
 ---
 
@@ -43,6 +21,8 @@ SPLYZA Score for Basketball 側で以下の操作を行うことで、スコア�
 2. スレッドを開くと、スコアデータが確認できます
    - SPLYZA Score for Basketball と同様のデータを閲覧することが可能です
 
+タブレット / スマートフォン / Web のいずれからも閲覧できます。
+
 ### 閲覧できるデータ
 
 - ボックススコア（クォーター別）
@@ -50,4 +30,13 @@ SPLYZA Score for Basketball 側で以下の操作を行うことで、スコア�
 - チームスタッツ＆個人スタッツ（クォーター別）
 - シュートチャート／ヒートマップ（チーム/個人・クォーター別）
 
-タブレット / スマートフォン / Web のいずれからも閲覧できます。
+---
+
+## スコアの共有について
+
+スコアを SPLYZA Teams に共有する操作は、**SPLYZA Score for Basketball 側で行います**。
+
+共有の手順（SPLYZAアカウントでのログイン、スコアデータの共有）については、
+SPLYZA Score for Basketball のヘルプセンターをご参照ください。
+
+**SPLYZA Score for Basketball ヘルプセンター**: https://splyza.notion.site/SPLYZA-Score-for-Basketball-2ccdf66121948040a039f34e2a55ab53
